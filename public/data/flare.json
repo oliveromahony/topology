@@ -1,0 +1,23 @@
+{
+    "name": "flare",
+    "children": [{
+        "name": "graph",
+            "children": [{
+              "name": "Centrality",
+              "size": 3534
+            }, {
+              "name": "Link Distance",
+              "size": 5731
+            }, {
+              "name": "Max Flow",
+              "size": 7840
+            }, {
+              "name": "Shortest",
+              "size": 5914
+            }, {
+              "name": "Spanning",
+              "size": 3416
+            }]
+        }
+    ]
+}
